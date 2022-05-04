@@ -23,8 +23,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-// aa
-
         btn_add_3 = findViewById(R.id.btn_ad3);
         btn_add_4 = findViewById(R.id.btn_add4);
         btn_add_5 = findViewById(R.id.btn_add5);
