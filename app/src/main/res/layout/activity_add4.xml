@@ -9,7 +9,7 @@
     <EditText
         android:id="@+id/et1"
         android:layout_width="match_parent"
-        android:hint="drink 1"
+        android:hint="@string/drink_1"
         android:layout_marginTop="30dp"
         android:layout_height="wrap_content"
         app:layout_constraintTop_toTopOf="parent" />
@@ -19,7 +19,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:hint="drink 2"
+        android:hint="@string/drink_2"
         app:layout_constraintTop_toBottomOf="@+id/et1"
         tools:layout_editor_absoluteX="0dp" />
 
@@ -28,7 +28,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:hint="drink 3"
+        android:hint="@string/drink_3"
         app:layout_constraintTop_toBottomOf="@+id/et2"
         tools:layout_editor_absoluteX="0dp" />
 
@@ -37,7 +37,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:hint="drink 4"
+        android:hint="@string/drink_4"
         app:layout_constraintTop_toBottomOf="@+id/et3"
         tools:layout_editor_absoluteX="0dp" />
 
@@ -46,7 +46,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="ADD"
+        android:text="@string/add"
         app:layout_constraintTop_toBottomOf="@+id/et4"
         tools:layout_editor_absoluteX="0dp" />
 

@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Roulette Drinking Game</string>
+    <string name="drink_1">Drink 1</string>
+    <string name="drink_2">Drink 2</string>
+    <string name="drink_3">Drink 3</string>
+    <string name="add">ADD</string>
+    <string name="drink_4">Drink 4</string>
+    <string name="drink_5">Drink 5</string>
+    <string name="roulette">Roulette</string>
+    <string name="spin">Spin</string>
+    <string name="number_of_drinks">Number of drinks:</string>
+    <string name="_3">3</string>
 </resources>
